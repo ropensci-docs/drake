@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7574c9c230ba95bdb461f18af61bc2232c6e79d9",
+    "author": "wlandau <will.landau@gmail.com>",
+    "time": "2021-07-15 16:34:06",
+    "files": 1,
+    "merge": false,
+    "message": "Update news\n"
+  },
+  "remote": "https://github.com/ropensci/drake",
+  "pkg": "drake"
+}
