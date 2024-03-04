@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f5e2391bdb04d9354dd2800cc9386e379c9eff47",
+    "author": "wlandau-lilly <will.landau@lilly.com>",
+    "time": "2024-03-04 14:40:19",
+    "files": 1,
+    "merge": false,
+    "message": "Remove -Additional_repositories:\n"
+  },
+  "repo": "https://github.com/ropensci/drake",
+  "pkg": "drake"
+}
