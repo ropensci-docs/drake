@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4832488766f4ad6861b6cff78f33213ceafeecc4",
+    "author": "wlandau-lilly <will.landau@lilly.com>",
+    "time": "2024-12-03T19:23:08Z",
+    "files": 3,
+    "merge": false,
+    "message": "test igraph behavior\n"
+  },
+  "repo": "https://github.com/ropensci/drake",
+  "pkg": "drake",
+  "time": "2026-08-30T07:54:58Z"
+}
